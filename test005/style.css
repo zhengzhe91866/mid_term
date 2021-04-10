@@ -1,0 +1,29 @@
+
+img{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+}
+
+.chatLeft img{
+    float: left;
+}
+
+.triLeft{
+    border-color:  transparent lightblue transparent transparent;
+    border-width: 10px;
+    border-style: solid;
+    float: left;
+    margin-top: 10px;
+    width: 0px;
+    height: 0px;
+}
+
+.textLeft{
+    height: 85px;
+    border-radius: 10px;
+    background-color: lightblue;
+    margin: 20px 80px;
+    padding: 5px;
+    margin-right: 40%;
+}
